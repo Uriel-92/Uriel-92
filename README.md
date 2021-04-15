@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Uriel-92
+- 👀 I’m interested in data science, deep learning, machine learning
+- 🌱 I’m currently learning data science
+- 💞️ I’m looking to collaborate on something related with data science
+- 📫 How to reach me u.calderonuribe@outlook.es
